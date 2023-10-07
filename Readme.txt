@@ -1,0 +1,1 @@
+Realizamos un Readme, creado con el comando touch "Readme.txt", y luego code .
